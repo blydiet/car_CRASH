@@ -1,2 +1,3 @@
 # car_CRASH
-This code is used to demonstrate the number of accidents that happend in New York City it uses an simple array and it uses simple recusion.
+This program demonstrates which of the 5 broughs of New York City, the Bronx, Queens,Brooklyn, State Island and Manhattan, have the fewest 
+reported automobile accidents in a year. 
